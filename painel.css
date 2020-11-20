@@ -1,0 +1,31 @@
+.painel {
+	margin-top: 32px;
+	text-align: center;
+}
+
+.painel .painel-texto {
+	width: 96%;
+	margin: 0 auto;
+}
+
+.painel .titulo-texto {
+	text-transform: uppercase;
+	font-size: 24px;
+	margin: 5px 0 16px 5px ;
+	font-weight: bold;
+}
+
+.painel .data-texto {
+	text-transform: uppercase;
+	font-size: 20px;
+	margin:5px 0 16px 10px;
+	color:#00008B;
+	font-weight: bold;
+}
+
+  .painel .descricao {
+	text-align: center;
+	font-size: 16px;
+	margin:0 auto;
+	line-height: 35px; 
+ }
